@@ -1,0 +1,11 @@
+Sun Oct 22 2023 14:33:55 GMT+0530 (India Standard Time) Sun Oct 22 2023 14:32:55 GMT+0530 (India Standard Time) LogSession: Starting a new log session at [E:\$SysReset\Logs]
+Sun Oct 22 2023 14:32:55 GMT+0530 (India Standard Time) Session: Checking main OS for a test ID
+Sun Oct 22 2023 14:32:55 GMT+0530 (India Standard Time) Telemetry: Checking [E:] for a test ID
+Sun Oct 22 2023 14:32:55 GMT+0530 (India Standard Time) Registry: Loading SOFTWARE hive from offline OS E:\Windows
+Sun Oct 22 2023 14:32:55 GMT+0530 (India Standard Time) Registry: Loading offline registry hive from [E:\Windows\System32\config\SOFTWARE]
+Sun Oct 22 2023 14:32:55 GMT+0530 (India Standard Time) Telemetry: No test ID presentSun Oct 22 2023 14:31:51 GMT+0530 (India Standard Time) LogSession: Starting a new log session at [E:\$SysReset\Logs]
+Sun Oct 22 2023 14:31:51 GMT+0530 (India Standard Time) Session: Checking main OS for a test ID
+Sun Oct 22 2023 14:31:51 GMT+0530 (India Standard Time) Telemetry: Checking [E:] for a test ID
+Sun Oct 22 2023 14:31:51 GMT+0530 (India Standard Time) Registry: Loading SOFTWARE hive from offline OS E:\Windows
+Sun Oct 22 2023 14:31:51 GMT+0530 (India Standard Time) Registry: Loading offline registry hive from [E:\Windows\System32\config\SOFTWARE]
+Sun Oct 22 2023 14:31:51 GMT+0530 (India Standard Time) Telemetry: No test ID present

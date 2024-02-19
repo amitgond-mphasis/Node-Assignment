@@ -1,0 +1,5 @@
+The student data file will provide demographic information and other characteristics for 
+each student. This file should be provided to us each semester in order to track new students
+ as they enter the institution. Students should only be included when they first enrolled in
+  your institution under a distinct status; definitions are included in the table below. 
+  This file should include one row per student ID and unique status.

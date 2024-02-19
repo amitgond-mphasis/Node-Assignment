@@ -1,0 +1,7 @@
+
+Name|age|gender|city
+amit|27|male|gkp
+sudip|28|male|kgp
+anamika|25|female|andhra
+naincy|30|female|goa
+aditya|29|male|bihar
